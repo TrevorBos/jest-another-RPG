@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/TrevorBos/jest-another-RPG#readme",
   "dependencies": {
+    "inquirer": "^8.2.4",
     "jest": "^28.1.2"
   }
 }
